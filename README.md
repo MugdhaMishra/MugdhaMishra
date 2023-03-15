@@ -22,7 +22,7 @@ About Me:
 
 • Power BI
 
-:one: Tableau
+:.: Tableau
 
 • R Programming Language
 
