@@ -1,38 +1,21 @@
 Hi there 👋
 
+I'm Mugdha, a self-taught data analyst. With a background in accounting, I transitioned to data in 2022 and have been teaching myself SQL, Python, POwer BI, and Tableau ever since.
 
- I am Mugdha
- 
+📚 Projects & Guides 📚
+In my portfolio, you can find my projects  on data analytics, including SQL, Power BI, Tableau and Excel.
 
-About Me:
+💡 My Skills
+Data preparation, quality assurance, and analysis
+Database design and modelling
+Dashboard development and reporting
+Exploratory data analysis
 
-• Data Enthusiast and Product Manager, passionate about data and mystery they hold.
+🛠️ My Tools
+Databases: SQL, Excel
+Visualisation: Tableau, Power BI
+Programming Language: MySQL, R
 
-• Have educational experience of MBA focused in Finance .
-
-• Having hands-on experience in Data Analysis, Data Cleaning and Data Visualization.
-
- 
-
-💡Skills💡
-
-• Advanced Excel
-
-• SQL
-
-• Power BI
-
-• Tablaeu
-
-• R Programming Language
-
- 
-
-📂 Portfolio Projects 📂
-
-
-
- 
 
 📚 Courses & Certifications📚
 
